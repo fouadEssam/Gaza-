@@ -1,9 +1,9 @@
 # Gaza-
 
 ## Some facts.
-
+### **These numbers are from October 2023 to June 2024, and the destruction, devastation, and death continue**
 The ongoing war in Gaza has cast a long, dark shadow over countless lives. Families are torn apart, homes reduced to rubble, and the once vibrant streets now echo with the sounds of despair and destruction. The relentless conflict has forced many to flee, leaving behind everything they once knew and loved. Children, who should be playing and learning, are instead growing up amidst fear and uncertainty. The humanitarian crisis deepens with each passing day, as basic necessities become scarce and hope seems like a distant memory. The pain and suffering are palpable, and the yearning for peace grows ever more desperate. This war, like all wars, leaves behind scars that may never fully heal, reminding us of the profound cost of conflict.
-**These numbers are from October 2023 to June 2024, and the destruction, devastation, and death continue**
+
 
 The number of deaths reached approximately 35,000 according to the announced figures, and the number of injuries was estimated to be in the thousands
 
