@@ -20,4 +20,4 @@ The high percentage of children (42.2%) and young adults (30.1%) among the decea
 **The number of destroyed residential homes reached approximately 16,819,456, while around 35,461 civilian homes were damaged. Educational buildings were not spared, with about 93,019 structures affected. Places of worship could not escape this devastation either, with approximately 56,628 mosques and 681 churches being destroyed**
 
 ***The war is still ongoing, and the destruction, devastation, and death toll are rising***
-##Free Palestine 
+## Free Palestine 
