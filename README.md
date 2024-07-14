@@ -7,7 +7,7 @@ The ongoing war in Gaza has cast a long, dark shadow over countless lives. Famil
 
 The number of deaths reached approximately 35,000 according to the announced figures, and the number of injuries was estimated to be in the thousands
 
-![](Fatalities_and_Events.png)
+![](FatalitiesandEvents.png)
 
 The first chart reveals that children constitute the largest percentage of the deceased at 42.2%, followed by young adults at 30.1%, adults at 14.9%, and elders at 12.8%. This highlights a significant impact on younger populations, which could have profound social and economic implications. The second chart shows a gender distribution where males represent 60.2% of the deceased, compared to 39.8% females.
 The high percentage of children (42.2%) and young adults (30.1%) among the deceased is deeply alarming. These numbers highlight the devastating impact of the conflict on the younger population, and not like they said that they didn't target them.
